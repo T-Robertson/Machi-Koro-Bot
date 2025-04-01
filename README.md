@@ -1,11 +1,11 @@
 # Machi-Koro-Bot
-A bot for simulating Machi Koro games
+A bot for simulating Machi Koro games and testing changes to the game.
 
-Machi Koro Bot - Wheatfield 
-- Currenty Working
-- Only One bot player
+Originaly written in C++, it was converted to python for testing
 
-Machi Koro Bot - Ranch
-- Currenty building
-- Mulitple Players
-- New system
+The original code was addapted from
+Travis Archer
+@Flamer Shaftglutton
+14 Jan 2015
+https://boardgamegeek.com/thread/1301080/complete-simulation-of-machi-koro-strategies
+
