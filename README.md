@@ -3,7 +3,7 @@ A bot for simulating Machi Koro games and testing changes to the game.
 
 Originaly written in C++, it was converted to python for testing
 
-The original code was addapted from
+The original code was adapted from
 Travis Archer
 @Flamer Shaftglutton
 14 Jan 2015
